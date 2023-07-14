@@ -1,0 +1,146 @@
+.bd-placeholder-img {
+    font-size: 1.125rem;
+    text-anchor: middle;
+    -webkit-user-select: none;
+    -moz-user-select: none;
+    user-select: none;
+}
+
+@media (min-width: 768px) {
+    .bd-placeholder-img-lg {
+        font-size: 3.5rem;
+    }
+}
+
+.app-checkbox{
+    height: 1.5rem!important;
+    width: 2.7rem!important;
+}
+.app-checkbox-2{
+     zoom: 2!important;
+ }
+
+
+.my-nav-brand{
+    background-color: #FFFF!important;
+    box-shadow: none!important;
+}
+
+.custom-sidebar{
+    /* top:71px!important; */
+}
+
+.search-field{
+    border: 1px solid rgb(223, 215, 215) !important;
+    border-radius: 5px!important;
+}
+
+.my-nav-brand {
+    background-color: #FFFF !important;
+    box-shadow: none !important;
+}
+
+
+.search-field {
+    border: 1px solid rgb(223, 215, 215) !important;
+    border-radius: 5px !important;
+}
+
+.user-name {
+    background: #E6AB3D;
+    border-radius: 5px;
+    font-weight: 600;
+    font-size: 14px;
+    color: #FFFFFF !important;
+}
+
+.user-name:hover {
+    color: #E6AB3D !important;
+    background-color: #FFF5E3;
+    transition: 0.6s;
+}
+
+
+/*Start Profile update page css*/
+.change-name input {
+    border: 1.5px solid #E8E8F5;
+    border-radius: 8px;
+    width: 100%;
+    outline: none;
+    padding: 0.485rem 2.3rem;
+}
+.change-name img {
+    position: relative;
+    top: 39px;
+    left: 10px;
+}
+.change-name label {
+    margin-left: -20px;
+}
+/* Chrome, Safari, Edge, Opera */
+.change-name input::-webkit-outer-spin-button,
+.change-name input::-webkit-inner-spin-button {
+    -webkit-appearance: none;
+    margin: 0;
+}
+/* Firefox */
+.change-name input[type=number] {
+    -moz-appearance: textfield;
+}
+/* user workshop */
+.profile-name img {
+    display: block;
+    margin-left: auto;
+    margin-right: auto;
+}
+.profile-name {
+    background: #FFFFFF;
+    box-shadow: 0px -3px 20px rgba(0, 0, 0, 0.08);
+    border-radius: 8px;
+    width: 100%;
+    /*height: 252px;
+    padding-top: 28px;
+    border-radius: 10px;*/
+}
+/*End Profile update page css*/
+
+.width-30{ width: 30px!important; }
+.width-35{ width: 35px!important; }
+.width-40{ width: 40px!important; }
+.width-45{ width: 45px!important; }
+.width-50{ width: 50px!important; }
+.width-55{ width: 55px!important; }
+.width-60{ width: 60px!important; }
+.width-65{ width: 65px!important; }
+.width-70{ width: 70px!important; }
+.width-75{ width: 75px!important; }
+.width-80{ width: 80px!important; }
+.width-85{ width: 85px!important; }
+.width-90{ width: 90px!important; }
+.width-95{ width: 95px!important; }
+.width-100{ width: 100px!important; }
+.width-105{ width: 105px!important; }
+.width-110{ width: 110px!important; }
+.width-115{ width: 115px!important; }
+.width-120{ width: 120px!important; }
+
+.font-weight-600{ font-weight: 600!important;}
+.font-weight-700{ font-weight: 700!important;}
+.font-weight-800{ font-weight: 800!important;}
+
+.mt-30{ margin-top: 30px!important; }
+
+.font-size-16{ font-size: 16px!important;}
+.font-size-18{ font-size: 18px!important;}
+.font-size-20{ font-size: 20px!important;}
+.font-size-22{ font-size: 22px!important;}
+.font-size-24{ font-size: 24px!important;}
+
+.checkbox-custom{
+    zoom: 1.2!important;
+    font-weight: 500!important;
+}
+
+.modal-body form {
+    padding: 0px 10px;
+}
